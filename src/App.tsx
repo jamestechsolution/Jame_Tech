@@ -1,5 +1,5 @@
 import { FormEvent, useState } from 'react';
-import { api, auth } from '@appdeploy/client';
+import { api, auth } from './appdeploy-client';
 
 const LOGO_PATH = '/resources/james-tech-logo.png';
 
